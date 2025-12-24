@@ -1,0 +1,3 @@
+Plagiarism detection is an important topic in computer science.
+Many students use software to compare documents.
+This program calculates similarity using Jaccard and N-gram methods.
